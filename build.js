@@ -1,1 +1,1 @@
-console.log('RUNNING BUILD SCRIPT');
+throw new Error("BROKEN INSTALL")
